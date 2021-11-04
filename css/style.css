@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100;1,300&family=Montserrat:wght@100;300&display=swap');
+body{
+
+background-color: rgb(218, 255, 253);
+color: rgb(0, 30, 94);
+font-size: 16px;
+} 
+
+img{
+border-radius: 50%;
+background-color: rgb(96, 250, 255);
+
+}
+ul{
+    list-style-type: square;
+}
+
+a{
+    text-decoration: none; 
+    color: rgb(0, 152, 163);
+}
